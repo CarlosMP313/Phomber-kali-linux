@@ -41,4 +41,5 @@ Para enumerar información sobre el número de teléfono `+1234567890`, usa el s
 python phomber.py -n +1234567890
 ```
 
+**Aviso de Responsabilidad:** El uso de esta herramienta debe ser ético y legal. No me hago responsable de la información obtenida ni del uso que se haga de ella. Asegúrate de cumplir con todas las leyes y regulaciones aplicables.
 
