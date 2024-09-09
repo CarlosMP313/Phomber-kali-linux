@@ -6,7 +6,7 @@ Phomber es una herramienta para enumerar números de teléfono a partir de diver
 
 1. **Clona el repositorio de Phomber**:
     ```bash
-    git clone https://github.com/Phomber/Phomber.git
+   git clone https://github.com/s41r4j/phomber.git
     ```
 
 2. **Navega al directorio de Phomber**:
