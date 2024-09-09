@@ -110,7 +110,7 @@ Reemplaza `+1234567890` con el número que deseas investigar.
 - **Acceso a Internet**: Algunos comandos requieren una conexión a Internet para funcionar correctamente.
 - **Ayuda Adicional**: Usa `help <command>` para obtener más información sobre un comando específico.
 
-PH0MBER es una herramienta poderosa para la recolección de información, ¡úsala con responsabilidad y siempre con respeto a las normativas legales!
+**Aviso de Responsabilidad:** El uso de esta herramienta debe ser ético y legal. No me hago responsable de la información obtenida ni del uso que se haga de ella. Asegúrate de cumplir con todas las leyes y regulaciones aplicables.
 
 
 
